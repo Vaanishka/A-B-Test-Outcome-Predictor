@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Entire data folder
+data/
+dataset/
+
+# Python cache
+__pycache__/
+
